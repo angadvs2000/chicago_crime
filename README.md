@@ -1,4 +1,4 @@
-# chicago_crime
+# Chicago Crime PreDictor
 
 
 ● Visualized Chicago Crime data to help residents determine the safety of neighbourhoods at different times of the day.
